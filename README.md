@@ -1,3 +1,3 @@
 # AP-Computer-Science
-## See the original versions of the projects [here](https://replit.com/@CaptainSapphire?path=). 
 Projects I did while taking the class AP Computer Science at my school with ProjectSTEM.
+The original versions of the projects have been removed from Replit, as Replit now has a Repl limit.
